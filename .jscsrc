@@ -1,0 +1,13 @@
+{
+  "disallowEmptyBlocks": false,
+  "disallowTrailingComma": true,
+  "preset": "airbnb",
+  "requireCamelCaseOrUpperCaseIdentifiers": false,
+  "requirePaddingNewLinesAfterBlocks": false,
+  "requireTrailingComma": false,
+  "maximumLineLength": 120,
+  "safeContextKeyword": [
+    "self"
+  ],
+  "requireShorthandArrowFunctions": false
+}

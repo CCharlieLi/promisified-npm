@@ -1,0 +1,36 @@
+{
+  "name": "promisified-npm",
+  "version": "0.0.1",
+  "description": "Pure promisified npm node module.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CCharlieLi/promisified-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "promise",
+    "promisified",
+    "promisify",
+    "node"
+  ],
+  "author": "ccharlieli <ccharlieli@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CCharlieLi/promisified-npm/issues"
+  },
+  "homepage": "https://github.com/CCharlieLi/promisified-npm#readme",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "npm": "^3.10.5"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "debug": "^2.2.0",
+    "jscs": "^3.0.7",
+    "mocha": "^3.0.0"
+  }
+}
