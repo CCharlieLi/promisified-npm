@@ -26,3 +26,7 @@ npm.loadAsync(npmConfig).then(() => {
   });
 });
 ```
+
+# License
+
+MIT
