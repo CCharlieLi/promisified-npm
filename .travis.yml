@@ -1,0 +1,15 @@
+sudo: false
+language: node_js
+node_js:
+  - "6"
+  - "5"
+  - "4"
+  - "0.12"
+install:
+  - npm install
+notifications:
+  email:
+    recipients:
+      - ccharlieli@live.com
+    on_success: never
+    on_failure: always
