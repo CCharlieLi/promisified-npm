@@ -1,6 +1,6 @@
 {
   "name": "promisified-npm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Pure promisified npm node module.",
   "main": "lib/index.js",
   "scripts": {
